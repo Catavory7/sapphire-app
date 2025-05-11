@@ -20,6 +20,9 @@ importers:
       '@titaniumnetwork-dev/ultraviolet':
         specifier: ^3.2.10
         version: 3.2.10
+      Sapphire-Static:
+        specifier: github:Catavory7/Sapphire-Static
+        version: ultraviolet-static@https://codeload.github.com/Catavory7/Sapphire-Static/tar.gz/cda98a123f66b7b0ca08de0581ddc739ad4f241d
       fastify:
         specifier: ^5.0.0
         version: 5.0.0
