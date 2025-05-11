@@ -1,7 +1,7 @@
 {
 	"name": "Sapphire",
 	"description": "Node.js sapphire instance",
-	"repository": "https://github.com/titaniumnetwork-dev/Sapphire-App",
-	"logo": "https://raw.githubusercontent.com/titaniumnetwork-dev/Sapphire-Static/main/public/uv.png",
+	"repository": "https://github.com/Catavory7/Sapphire-App",
+	"logo": "https://raw.githubusercontent.com/Catavory7/Sapphire-Static/main/public/uv.png",
 	"keywords": ["tomp", "ultraviolet","sapphire"]
 }
